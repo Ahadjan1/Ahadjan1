@@ -16,7 +16,7 @@ I'm a final-year Computer Science student at SZABIST Islamabad with hands-on exp
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python, Java, JavaScript
+**Languages:** Python,\ JavaScript
 
 **Machine Learning / Deep Learning:** Scikit-learn, TensorFlow, Pandas, NumPy
 
